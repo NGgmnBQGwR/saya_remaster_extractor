@@ -1,0 +1,15 @@
+[package]
+name = "saya_remaster_extractor"
+version = "0.1.0"
+authors = ["0xffffffff <0xgggggg@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aes = "0.3"
+block-modes = "0.3"
+miniz_oxide = "0.3"
+byteorder = "1.3"
+encoding_rs = "0.8"
+zip = "0.5.3"
